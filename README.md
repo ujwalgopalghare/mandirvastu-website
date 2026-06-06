@@ -17,30 +17,34 @@ Developed as part of an Indian Knowledge Systems (IKS) project, the platform aim
 
 
 HOMEPAGE
-<img width="963" height="856" alt="Homepage" src="https://github.com/user-attachments/assets/31b1855d-62f9-4364-9c6a-ba145fc6d3c4" />
+<img width="1919" height="972" alt="Homepage" src="https://github.com/user-attachments/assets/e630eeb7-e260-4e5a-ac28-7c6b3e354e32" />
+
 
 
 CASE STUDY PAGE
-<img width="961" height="860" alt="Case_Study_Page" src="https://github.com/user-attachments/assets/cae04ddb-158f-4d0a-8f4d-283fdfd7b823" />
+<img width="1918" height="969" alt="Case_Study_Page" src="https://github.com/user-attachments/assets/9acc88f4-dd28-45a2-b229-e4358cdbf97d" />
 
 
-VISUAL ARCHIVES OF CASE STUDY
-<img width="943" height="822" alt="Visual_Archives" src="https://github.com/user-attachments/assets/5ecbfed0-3983-4f5f-9ac5-ab6aad2282b4" />
+VISUAL INTERACTIVE ARCHIVES OF CASE STUDY
+<img width="1889" height="960" alt="Visual_Interactive_Archives" src="https://github.com/user-attachments/assets/c050b421-2674-4cd4-998e-c41678211a6b" />
+
 
 
 STYLES PAGE 
-<img width="846" height="637" alt="Styles_Page" src="https://github.com/user-attachments/assets/8275a59d-e8a7-4e63-92de-c5f4c58cd54e" />
+<img width="1919" height="974" alt="Styles_Page" src="https://github.com/user-attachments/assets/17609495-695a-4b1c-9458-26b9e438c0d3" />
+
 
 
 
 ELEMENTS PAGE
+<img width="1919" height="975" alt="Elements_Page" src="https://github.com/user-attachments/assets/64607713-b34a-417a-843c-b19b928a987b" />
 
-<img width="841" height="639" alt="Elements_Page" src="https://github.com/user-attachments/assets/1cc5561b-af8e-43f9-955d-02b1aed504c7" />
 
 
 
 ABOUT PAGE
-<img width="647" height="698" alt="About_Page" src="https://github.com/user-attachments/assets/47705f68-e10c-4ea1-8c51-7b639039f24b" />
+<img width="1919" height="975" alt="About_Page" src="https://github.com/user-attachments/assets/c82610a2-cf36-49fd-8b33-efa8ccce6bdd" />
+
 
 ## Technologies Used
 
