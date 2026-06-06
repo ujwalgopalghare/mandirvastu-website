@@ -1,4 +1,4 @@
-<img width="963" height="856" alt="Homepage" src="https://github.com/user-attachments/assets/64e0efbc-1ee3-4bb9-91df-94e148bb924b" /># MandirVastu
+# MandirVastu
 
 MandirVastu is a web-based encyclopedia focused on the architectural and iconographic elements of Indian temples.
 
