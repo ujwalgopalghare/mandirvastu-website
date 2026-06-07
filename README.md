@@ -4,14 +4,6 @@ MandirVastu is a web-based encyclopedia focused on the architectural and iconogr
 
 Developed as part of an Indian Knowledge Systems (IKS) project, the platform aims to present temple architecture, symbolism and traditional design principles through an accessible and structured digital experience.
 
-## Highlights
-
-* Covers 48 temple elements and 3 major architectural traditions
-* Responsive design across desktop, tablet and mobile devices
-* Optimized for different screen sizes and pixel densities
-* Performance-conscious design for smoother experience on low-end devices
-* Interactive visual elements and image-based content
-* Search-engine optimized structure with metadata, sitemap and robots configuration
 
 ## Preview
 
@@ -44,6 +36,15 @@ ELEMENTS PAGE
 
 ABOUT PAGE
 <img width="1919" height="975" alt="About_Page" src="https://github.com/user-attachments/assets/c82610a2-cf36-49fd-8b33-efa8ccce6bdd" />
+
+## Highlights
+
+* Covers 48 temple elements and 3 major architectural traditions
+* Responsive design across desktop, tablet and mobile devices
+* Optimized for different screen sizes and pixel densities
+* Performance-conscious design for smoother experience on low-end devices
+* Interactive visual elements and image-based content
+* Search-engine optimized structure with metadata, sitemap and robots configuration
 
 
 ## Technologies Used
